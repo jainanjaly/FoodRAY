@@ -1,0 +1,62 @@
+// Export pages
+export '/food_ray/home_login_signup/home_page/home_page_widget.dart'
+    show HomePageWidget;
+export '/food_ray/home_login_signup/sign_up_rest_license_ver/sign_up_rest_license_ver_widget.dart'
+    show SignUpRestLicenseVerWidget;
+export '/food_ray/home_login_signup/sign_up_rest_o_t_p/sign_up_rest_o_t_p_widget.dart'
+    show SignUpRestOTPWidget;
+export '/food_ray/home_login_signup/choose_sign_up/choose_sign_up_widget.dart'
+    show ChooseSignUpWidget;
+export '/food_ray/home_login_signup/login_page/login_page_widget.dart'
+    show LoginPageWidget;
+export '/food_ray/home_login_signup/sign_up_rest_details/sign_up_rest_details_widget.dart'
+    show SignUpRestDetailsWidget;
+export '/food_ray/home_login_signup/sign_up_ngo_details/sign_up_ngo_details_widget.dart'
+    show SignUpNgoDetailsWidget;
+export '/food_ray/home_login_signup/sign_up_ngo_license_ver/sign_up_ngo_license_ver_widget.dart'
+    show SignUpNgoLicenseVerWidget;
+export '/food_ray/home_login_signup/success_registration/success_registration_widget.dart'
+    show SuccessRegistrationWidget;
+export '/food_ray/home_login_signup/promotion_details/promotion_details_widget.dart'
+    show PromotionDetailsWidget;
+export '/food_ray/restaurant_user/food_post/food_post_widget.dart'
+    show FoodPostWidget;
+export '/rdashboard/rdashboard_widget.dart' show RdashboardWidget;
+export '/food_ray/restaurant_user/rest_activity/rest_activity_widget.dart'
+    show RestActivityWidget;
+export '/food_ray/home_login_signup/about_us/about_us_widget.dart'
+    show AboutUsWidget;
+export '/food_ray/home_login_signup/d_i_y_food/d_i_y_food_widget.dart'
+    show DIYFoodWidget;
+export '/food_ray/home_login_signup/sign_up_ngo_o_t_p/sign_up_ngo_o_t_p_widget.dart'
+    show SignUpNgoOTPWidget;
+export '/food_ray/n_g_o_user/ngo_dashboard/ngo_dashboard_widget.dart'
+    show NgoDashboardWidget;
+export '/food_ray/n_g_o_user/food_claims/food_claims_widget.dart'
+    show FoodClaimsWidget;
+export '/food_ray/n_g_o_user/claims_confirmation/claims_confirmation_widget.dart'
+    show ClaimsConfirmationWidget;
+export '/food_ray/n_g_o_user/success_claim/success_claim_widget.dart'
+    show SuccessClaimWidget;
+export '/food_ray/n_g_o_user/status_n_g_o/status_n_g_o_widget.dart'
+    show StatusNGOWidget;
+export '/food_ray/restaurant_user/rest_profile/rest_profile_widget.dart'
+    show RestProfileWidget;
+export '/food_ray/n_g_o_user/ngo_profile/ngo_profile_widget.dart'
+    show NgoProfileWidget;
+export '/food_ray/restaurant_user/rest_dashboard/rest_dashboard_widget.dart'
+    show RestDashboardWidget;
+export '/food_ray/restaurant_user/choose_rest_status/choose_rest_status_widget.dart'
+    show ChooseRestStatusWidget;
+export '/food_ray/restaurant_user/status_rest/status_rest_widget.dart'
+    show StatusRestWidget;
+export '/food_ray/restaurant_user/posted_rest/posted_rest_widget.dart'
+    show PostedRestWidget;
+export '/food_ray/home_login_signup/forgot_password/forgot_password_widget.dart'
+    show ForgotPasswordWidget;
+export '/food_ray/home_login_signup/reset_password/reset_password_widget.dart'
+    show ResetPasswordWidget;
+export '/food_ray/home_login_signup/maindash/maindash_widget.dart'
+    show MaindashWidget;
+export '/food_ray/n_g_o_user/ngo_activity/ngo_activity_widget.dart'
+    show NgoActivityWidget;

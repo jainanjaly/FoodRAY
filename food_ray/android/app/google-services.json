@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556013285510",
+    "project_id": "food-ray-uj52fo",
+    "storage_bucket": "food-ray-uj52fo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556013285510:android:9fef96377ff068ca01a107",
+        "android_client_info": {
+          "package_name": "com.mycompany.foodray"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwmjOK_Nmrn3K7B3uORabTW99NEbVMLdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

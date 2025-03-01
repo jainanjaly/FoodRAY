@@ -51,20 +51,31 @@ FoodRay is a mobile application that connects restaurants with surplus food to N
 
 ---
 
-## **Project Structure**  
-```
-FoodRay/
-│── lib/                   # Main application code
-│   ├── backend/           # Firebase backend services
-│   ├── screens/           # UI screens for restaurants & NGOs
-│   ├── widgets/           # Reusable Flutter widgets
-│   ├── models/            # Data models for Firestore
-│   ├── services/          # API services and authentication handling
-│── assets/                # Images and other static assets
-│── pubspec.yaml           # Project dependencies
-│── README.md              # Project documentation
-```
-
+FoodRay/  
+│── android/                
+│   ├── app/                
+│   ├── gradle/             
+│   ├── build.gradle        
+│   ├── gradle.properties   
+│   ├── settings.gradle     
+│── firebase/               
+│   ├── cloud_functions/     
+│   ├── functions/           
+│   ├── firebase.json        
+│   ├── firestore.rules      
+│   ├── storage.rules        
+│── ios/                     
+│── web/                     
+│── lib/                     
+│   ├── backend/             
+│   ├── screens/             
+│   ├── widgets/             
+│   ├── models/              
+│   ├── services/            
+│── assets/                  
+│── pubspec.yaml              
+│── README.md                 
+  
 ---
 
 ## **Screenshots**  
